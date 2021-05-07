@@ -10,7 +10,7 @@
       }
     ]
   ],
-  "plugins": [],
+  "plugins": [["react-native-web", { "commonjs": true }]],
   "env": {
     "test": {
       "plugins": [
